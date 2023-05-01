@@ -13,6 +13,8 @@ public class Album {
 		this.administradores = new ArrayList<Administrador>();
 	}
 	
-	
+	public void agregarAdmin(Integer id, String nombre) {
+		
+	}
 	
 }
