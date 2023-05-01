@@ -9,6 +9,6 @@ public abstract class Usuario {
 		this.nombre = nombre;
 	}
 	
-	
+	public abstract void agregarFigurita(Figurita actual);
 	
 }

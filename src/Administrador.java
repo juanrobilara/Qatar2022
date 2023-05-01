@@ -6,5 +6,11 @@ public class Administrador extends Usuario {
 		
 	}
 
+	@Override
+	public void agregarFigurita(Figurita actual) {
+		
+		
+	}
+
 
 }
